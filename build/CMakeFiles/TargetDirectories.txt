@@ -1,0 +1,3 @@
+/home/ambuj/vs_Code C++/opencv_project/Project_Document_Scanner/build/CMakeFiles/rebuild_cache.dir
+/home/ambuj/vs_Code C++/opencv_project/Project_Document_Scanner/build/CMakeFiles/Document_Scanner.dir
+/home/ambuj/vs_Code C++/opencv_project/Project_Document_Scanner/build/CMakeFiles/edit_cache.dir
